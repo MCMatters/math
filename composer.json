@@ -1,0 +1,18 @@
+{
+    "name": "mcmatters/math",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Borzyonok",
+            "email": "dima.matters@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "McMatters\\Math\\": "src/"
+        }
+    }
+}
